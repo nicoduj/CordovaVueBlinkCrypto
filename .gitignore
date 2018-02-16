@@ -24,3 +24,6 @@ src/keys.json
 #version buildée
 www
 
+#package-lock
+package-lock.json
+

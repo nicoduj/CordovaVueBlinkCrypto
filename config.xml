@@ -26,12 +26,13 @@
         <allow-intent href="itms-apps:*" />
         <splash height="2436" src="src/assets/images/iphoneX.png" width="1125" />
     </platform>
-    <plugin name="com.microblink.BlinkIdScanner" spec="../blinkid-phonegap/BlinkID">
+    <plugin name="cordova-plugin-screen-orientation" spec="^3.0.1" />
+    <plugin name="cordova-plugin-file" spec="^6.0.1" />
+    <plugin name="cordova-plugin-inappbrowser" spec="^2.0.2" />
+    <plugin name="cordova-plugin-secure-key-store" spec="^1.5.5" />
+    <plugin name="com.microblink.BlinkIdScanner" spec="../blinkid-phonegap/blinkid-phonegap/BlinkID">
         <variable name="CAMERA_USAGE_DESCRIPTION" value=" " />
     </plugin>
-    <plugin name="cordova-plugin-file" spec="^6.0.1" />
     <plugin name="cordova-plugin-file-transfer" spec="^1.7.1" />
-    <plugin name="cordova-plugin-inappbrowser" spec="^2.0.1" />
-    <plugin name="cordova-plugin-screen-orientation" spec="^3.0.1" />
-    <plugin name="cordova-plugin-secure-key-store" spec="^1.5.5" />
+    <engine name="ios" spec="^4.5.4" />
 </widget>
