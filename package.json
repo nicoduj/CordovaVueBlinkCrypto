@@ -38,7 +38,7 @@
     },
     "dependencies": {
         "blinkid": "file:../blinkid-phonegap/BlinkID",
-        "com.microblink.BlinkIdScanner": "../blinkid-phonegap/blinkid-phonegap/BlinkID",
+        "com.microblink.BlinkIdScanner": "../blinkid-phonegap/BlinkID",
         "cordova-ios": "^4.5.4",
         "cordova-plugin-file": "^6.0.1",
         "cordova-plugin-file-transfer": "^1.7.1",
