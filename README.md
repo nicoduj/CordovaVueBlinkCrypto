@@ -59,7 +59,7 @@ Currently, I made a workaround (see main.vue) using temp link and cordova-plugin
       ```
       cordova platform add ios
       ```
-3. Finally, you have to create a file anmed "keys.json" in the src folder, and fill it with your keys.
+3. Finally, you have to create a file named "keys.json" in the src folder, and fill it with your keys.
 ```json
 {
     "BLINK_ID_IOS_LICENSE" : "YOUR_BLINK_ID_KEY_FOR_IOS",
