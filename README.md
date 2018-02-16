@@ -36,22 +36,22 @@ Currently, I made a workaround (see main.vue) using temp link and cordova-plugin
     * Don't forget to install git-lfs !
     * Initialize the iOS framework:
 
-      `
+      ```
       cd BlinkID
       ./initIOSFramework.sh
       cd ..
-      `
+      ```
     * Add the BlinkID plugin to your project:
 
-      `
+      ```
       cd <path_to_your_project>
       cordova plugin add <blinkID_plugin_path>
-      `
+      ```
     * You can then add your platform, for example :
 
-      `
+      ```
       cordova platform add ios
-      `
+      ```
 3. Finally, you have to create a file anmed "keys.json" in the src folder, and fill it with your keys.
 ```json
 {
