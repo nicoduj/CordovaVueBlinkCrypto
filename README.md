@@ -3,11 +3,12 @@
 
 ## Screenshot
 
-<p>
-<center>
+Here is a Screenshot of the demo app. 
+Please be indulgent, the purpose is not to do something that is nice to see :bowtie:
+
+<p align="center">
 <img src="https://user-images.githubusercontent.com/19813688/36318973-bcd1ecdc-1341-11e8-968f-0dff480c8afa.jpg" 
 width="200" alt="Screenshot">
-</center>
 </p>
 
 ## What's in the box
