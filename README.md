@@ -1,5 +1,12 @@
 # Sample APP demonstrating integration of BlinkID / CryptoJS in a cordova Project
 
+
+## Screenshot
+
+![Screenshot of the sample app](https://raw.githubusercontent.com/nicoduj/CordovaVueBlinkCrypto/screenshot.jpg)
+
+## What's in the box
+
 This sample app is based on Framework7 cordova vue js template (cordova-template-framework7-vue-webpack)
 https://github.com/caiobiodere/cordova-template-framework7-vue-webpack
 
@@ -28,7 +35,7 @@ Please note that, as of today, this sdk doesn't work when downloading from dropb
 I made a fork  (https://github.com/nicoduj/dropbox-sdk-js ) and a pull request ( https://github.com/dropbox/dropbox-sdk-js/pull/173 ) with a fix proposal discussed with them. 
 Currently, I made a workaround (see main.vue) using temp link and cordova-plugin-file-transfer.
 
-## How to run this app
+## How to run this sample app
 
 1. Install [Cordova](https://cordova.apache.org), fetch this repository and navigate to the project directory.
 2. Then, you need to prepare BlinkID plugin. To do that, follow the steps taht are on their github (https://github.com/BlinkID/blinkid-phonegap) :
