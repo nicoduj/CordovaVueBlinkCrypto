@@ -23,7 +23,7 @@ src/keys.json
 
 #version buildée
 www/*
-!www/.gitkeep 
+!www/index.html
 
 #package-lock
 package-lock.json
