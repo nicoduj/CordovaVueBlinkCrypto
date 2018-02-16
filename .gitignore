@@ -22,7 +22,8 @@ src/keys.json
 .vscode
 
 #version buildée
-www
+www/*
+!www/.gitkeep 
 
 #package-lock
 package-lock.json
