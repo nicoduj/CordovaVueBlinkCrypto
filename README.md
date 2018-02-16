@@ -3,7 +3,7 @@
 
 ## Screenshot
 
-![screenshot](https://user-images.githubusercontent.com/19813688/36318973-bcd1ecdc-1341-11e8-968f-0dff480c8afa.jpg)
+<img src="https://user-images.githubusercontent.com/19813688/36318973-bcd1ecdc-1341-11e8-968f-0dff480c8afa.jpg" width="200" alt="Screenshot">
 
 ## What's in the box
 
