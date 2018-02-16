@@ -3,7 +3,7 @@
 
 ## Screenshot
 
-![Screenshot of the sample app](https://raw.githubusercontent.com/nicoduj/CordovaVueBlinkCrypto/blob/master/screenshot.jpg)
+![screenshot](https://user-images.githubusercontent.com/19813688/36318973-bcd1ecdc-1341-11e8-968f-0dff480c8afa.jpg)
 
 ## What's in the box
 
