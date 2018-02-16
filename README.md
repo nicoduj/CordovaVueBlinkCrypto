@@ -3,8 +3,10 @@
 
 ## Screenshot
 
-<img src="https://user-images.githubusercontent.com/19813688/36318973-bcd1ecdc-1341-11e8-968f-0dff480c8afa.jpg" width="200" alt="Screenshot">
-
+<center>
+<img src="https://user-images.githubusercontent.com/19813688/36318973-bcd1ecdc-1341-11e8-968f-0dff480c8afa.jpg" 
+width="200" alt="Screenshot">
+</center>
 ## What's in the box
 
 This sample app is based on Framework7 cordova vue js template (cordova-template-framework7-vue-webpack)
