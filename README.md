@@ -32,31 +32,34 @@ Currently, I made a workaround (see main.vue) using temp link and cordova-plugin
 
 1. Install [Cordova](https://cordova.apache.org), fetch this repository and navigate to the project directory.
 2. Then, you need to prepare BlinkID plugin. To do that, follow the steps taht are on their github (https://github.com/BlinkID/blinkid-phonegap) :
-  * Clone or Download the repository
-  * Don't forget to install git-lfs !
-  * Initialize the iOS framework:
-`
-cd BlinkID
-./initIOSFramework.sh
-cd ..
-`
-  * Add the BlinkID plugin to your project:
-`
-cd <path_to_your_project>
-cordova plugin add <blinkID_plugin_path>
-`
-  * You can then add your platform, for example :
-`
-cordova platform add ios
-`
+    * Clone or Download the repository
+    * Don't forget to install git-lfs !
+    * Initialize the iOS framework:
+
+      `
+      cd BlinkID
+      ./initIOSFramework.sh
+      cd ..
+      `
+    * Add the BlinkID plugin to your project:
+
+      `
+      cd <path_to_your_project>
+      cordova plugin add <blinkID_plugin_path>
+      `
+    * You can then add your platform, for example :
+
+      `
+      cordova platform add ios
+      `
 3. Finally, you have to create a file anmed "keys.json" in the src folder, and fill it with your keys.
-`
+```json
 {
     "BLINK_ID_IOS_LICENSE" : "YOUR_BLINK_ID_KEY_FOR_IOS",
     "BLINK_ID_ANDROID_LICENSE"  : "YOUR_BLINK_ID_KEY_FOR_ANDROID",
     "DROPBOX_CLIENT_ID" : "YOUR_DROPBOX_CLIENT_ID"
  }
-`
+```
 
 
 
